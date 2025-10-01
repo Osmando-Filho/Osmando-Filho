@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/osmandofilho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
   </a>
-  <a href="www.discord/users/osmandofilho" target="_blank">
+  <a href="www.discord/users/1127723102810415296" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
   </a>
   <a href="https://t.me/OsmandoFilho" target="_blank">
